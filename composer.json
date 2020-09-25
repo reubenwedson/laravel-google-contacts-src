@@ -1,0 +1,15 @@
+{
+    "name": "reubenwedson/laravel-google-contacts",
+    "description": "A package for mananing google contacts in laravel projects.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reuben Wedson",
+            "email": "reubenwedson@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^5.6"
+    }
+}
